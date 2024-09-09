@@ -4,10 +4,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://avatars.githubusercontent.com/u/149691515?v=4"  />
-</div>
-
 ###
 
 <br clear="both">
